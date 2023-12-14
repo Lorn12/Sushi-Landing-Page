@@ -6,11 +6,8 @@
   overflow: hidden;
 }
 
-/* .trending__discover {
-} */
-
 .trending-sushi,
-.trending-drink {
+.trending-drinks {
   width: 100%;
   min-height: 640px;
 
@@ -83,7 +80,7 @@
   background-image: url("../../ASSETS/japanese_sushi.png");
 }
 
-.trending-drink .trending__image {
+.trending-drinks .trending__image {
   background-image: url("../../ASSETS/japanese_drinks.png");
 }
 
@@ -91,6 +88,34 @@
   width: 254px;
   height: 260px;
   object-fit: contain;
+}
+
+/* <!-- //DISCOVER BUTTON ______________________________________________________________ --> */
+
+.trending__discover {
+  position: absolute;
+  top: 44%;
+  left: 44%;
+  z-index: 1;
+
+  width: 160px;
+  height: 160px;
+
+  background-color: var(--secondary-color);
+  border-radius: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trending__discover p {
+  color: #fff;
+  text-transform: uppercase;
+
+  font-size: 18px;
+  font-weight: 500;
+  font-family: var(--plus-jakarta-sans);
 }
 
 /* <!-- //TRENDING-ARROWS ______________________________________________________________ --> */
