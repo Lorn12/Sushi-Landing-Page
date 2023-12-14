@@ -104,7 +104,7 @@ a {
   scrollbar-width: none; /* Firefox */
 }
 
-/* START: about us media queries */
+/* <!-- //ABOUT SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 1024px) {
   .about-us {
     flex-direction: column;
@@ -161,9 +161,8 @@ a {
     padding: 32px;
   }
 }
-/* END: about us media queries */
 
-/* START: header media querie */
+/* <!-- //HEADER SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 900px) {
   .header__nav {
     background: var(--primary-color);
@@ -183,9 +182,8 @@ a {
     padding-left: 0;
   }
 }
-/* END: header media queries */
 
-/* START: hero media queries */
+/* <!-- //HERO SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 1060px) {
   .hero {
     flex-direction: column;
@@ -231,9 +229,8 @@ a {
     padding: 32px;
   }
 }
-/* END: hero media queries */
 
-/* START: popular media queries */
+/* <!-- //POPULAR SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 550px) {
   .popular-foods {
     padding: 64px 32px;
@@ -244,9 +241,8 @@ a {
     min-width: 100%;
   }
 }
-/* END: popular media queries */
 
-/* START: subscribe media queries */
+/* <!-- //SUBSCRIBE SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 550px) {
   .subscription {
     padding: 64px 32px;
@@ -280,15 +276,14 @@ a {
     min-width: 100%;
   }
 }
-/* END: subscribe media queries */
 
-/* START: trending media queries */
+/* <!-- //TRENDING SECTION MEDIA QUERIES  ______________________________________________________________ --> */
 @media screen and (max-width: 1024px) {
   .trending-sushi {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
@@ -316,4 +311,3 @@ a {
     padding: 32px;
   }
 }
-/* END: trending media queries */
