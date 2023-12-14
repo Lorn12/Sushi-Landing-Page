@@ -1,6 +1,6 @@
 // import images as relative image path won't work with vite/vercel.
-import check from "../assets/check.svg";
-import star from "../assets/star.svg";
+import check from "../ASSETS/check.svg";
+import star from "../ASSETS/star.svg";
 import sushi12 from "../ASSETS/sushi-12.png";
 import sushi11 from "../ASSETS/sushi-11.png";
 import sushi10 from "../ASSETS/sushi-10.png";
