@@ -12,6 +12,6 @@ This project was from JavaScript Mastery tutorial going over modern #HTML and #C
 - Maintain a well-organized file & folder structure
 - Embrace the principles of writing clean code
 
-# DEMO
+# DEMO 🍣
 
 https://github.com/Lorn12/Sushi-Landing-Page/assets/43707274/4557255a-1fe8-480c-8f99-70895f9ae9d9
