@@ -14,4 +14,4 @@ This project was from JavaScript Mastery tutorial going over modern #HTML and #C
 
 # DEMO
 
-<video src="Sushi-Rec1.mp4" controls title="Title"></video>
+https://github.com/Lorn12/Sushi-Landing-Page/assets/43707274/4557255a-1fe8-480c-8f99-70895f9ae9d9
